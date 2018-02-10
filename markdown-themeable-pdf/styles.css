@@ -8,6 +8,20 @@
 
 /*
 html, body {
-	color: red;
+        color: red;
 }
 */
+
+@import "bootstrap.min.css";
+
+p {
+    font-size: 13px
+}
+
+ol {
+    font-size: 13px
+}
+
+code {
+    font-size: 13px
+}
