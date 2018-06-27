@@ -7,7 +7,7 @@
 
 html, body {
     background: #FFF;
-    font-family: Roboto "Segoe UI", Arial, freesans, sans-serif;
+    font-family: Roboto "Segoe UI", Arial, freesans, sans-serif !important;
     font-size: 13px;
     line-height: 1.4;
     color: #333;
@@ -172,19 +172,19 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 40px !important;
 }
 
 h2 {
-    font-size: 32px;
+    font-size: 32px !important;
 }
 
 h3 {
-    font-size: 27px;
+    font-size: 27px !important;
 }
 
 h4 {
-    font-size: 23px;
+    font-size: 23px !important;
 }
 
 h5, h6 {
