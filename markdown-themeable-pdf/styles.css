@@ -11,38 +11,3 @@ html, body {
         color: red;
 }
 */
-
-@import "bootstrap.min.css";
-
-p {
-    font-size: 13px
-}
-
-ol {
-    font-size: 13px
-}
-
-code {
-    font-size: 13px
-}
-
-h1 {
-  font-size: 40px !important;
-}
-
-h2 {
-  font-size: 32px !important;
-}
-
-h3 {
-  font-size: 27px !important;
-}
-
-h4 {
-  font-size: 23px !important;
-}
-
-html *
-{
-   font-family: Roboto !important;
-}
